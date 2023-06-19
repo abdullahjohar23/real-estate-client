@@ -1,3 +1,3 @@
 # real-estate-client
 
-# here you can add properies in your website
+here you can add properties in your website
